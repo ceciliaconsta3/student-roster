@@ -1,3 +1,3 @@
 # Roster
 
-:bookmark_tabs: Student Roster program built in Java
+:bookmark_tabs: A Student Roster program built in Java
